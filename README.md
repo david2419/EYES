@@ -4,7 +4,7 @@
 
 Title of the project: EYES
 
-Description of the project: This project 
+Description of the project: This project is real fun. Just need to play around the screen with the mouse and the eyes will follow you everywhere.
 
 How to Run: Put all the files in the repository in the same folder. Then, just open de index.html file. Just play around with the mouse and you will see how both of the eyes stares always where the pointer is.
 
